@@ -4,7 +4,7 @@ What a difference 10 years makes!
 
 10 years ago (2016) - this Spark-based data science assignment took me 1 month to complete (pre-AI, hand-coded): https://github.com/huang-pan/shift
 
-Now in 2026, you can use an AI coding assistant to do something better / more comprehensive in a much shorter time. For example, the below (similar) data science notebook was created using Databricks Genie Code in half a day:
+Now in 2026, you can use an AI coding assistant to do something better / more comprehensive in a much shorter time. For example, the below (similar) data science notebook was created using Databricks Genie Code in *half a day*:
 
 Final results -> open in new tab: https://github.com/huang-pan/databricks-data-science-2026/blob/main/Using%20the%20Databricks%20Data%20Science%20Agent.html
 - Download the raw file: 'Using the Databricks Data Science Agent.html'
