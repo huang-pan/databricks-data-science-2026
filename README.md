@@ -15,5 +15,5 @@ Source notebook: https://github.com/huang-pan/databricks-data-science-2026/blob/
 
 If AI can do all of this, where does this leave the human? 
 - The human needs to bring the judgement to ensure that the data science outputs are correct. This requires a background knowledge of all the underlying analytics, data science algorithms, etc. My experience with hand-coding the 2016 assignment above was essential to understanding the code & outputs of the AI generated 2026 notebook.
-- The human needs to have an understanding of the underlying data & AI platform (in this case Databricks) in order to put the data science model into production. And maintain the model using Machine Learning Operations (MLOps). The job function of the data scientist has expanded to include the arena of data & AI systems design: data scientist -> AI engineer
+- The human needs to have an understanding of the architecture & features of the underlying data & AI platform (in this case Databricks) in order to put the data science model into production. And maintain the model using Machine Learning Operations (MLOps). The job function of the data scientist has expanded to include the arena of data & AI systems design: data scientist -> AI engineer
 - For additional reference, see: https://github.com/huang-pan/modern-data-stack-2023/blob/main/Databricks%2C%20Spark.md
