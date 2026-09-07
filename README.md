@@ -8,7 +8,7 @@ Now in 2026, you can use an AI coding assistant to do something better / more co
 
 Final results -> right click -> open in new tab: https://github.com/huang-pan/databricks-data-science-2026/blob/main/Using%20the%20Databricks%20Data%20Science%20Agent.html
 - Download the raw file: 'Using the Databricks Data Science Agent.html'
-- then open the downloaded Using the *Databricks Data Science Agent.html* file on your local computer / browser
+- then open the downloaded *Using the Databricks Data Science Agent.html* file on your local computer / browser
 
 Source notebook: https://github.com/huang-pan/databricks-data-science-2026/blob/main/Using%20the%20Databricks%20Data%20Science%20Agent.ipynb
 - Complete end to end data science notebook: exploratory data analysis, feature selection, auto-ML model building / evaluation / comparison / selection, hyper-parameter tuning, SHAP feature explanation, and final recommendations for the business
