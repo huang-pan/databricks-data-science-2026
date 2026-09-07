@@ -11,7 +11,7 @@ Final results -> open in new tab: https://github.com/huang-pan/databricks-data-s
 - then open the downloaded Shift.html file on your local computer / browser
 
 Source notebook: https://github.com/huang-pan/databricks-data-science-2026/blob/main/Using%20the%20Databricks%20Data%20Science%20Agent.ipynb
-- Complete end to end data science notebook: exploratory data analysis, feature selection, auto-ML model building / evaluation / comparison / selection, hyper-parameter tuning, SHAP feature explanation, and recommendations for the business
+- Complete end to end data science notebook: exploratory data analysis, feature selection, auto-ML model building / evaluation / comparison / selection, hyper-parameter tuning, SHAP feature explanation, and final recommendations for the business
 
 If AI can do all of this, where does this leave the human? 
 - The human needs to bring the judgement to ensure that the data science outputs are correct. This requires a background knowledge of all the underlying analytics, data science algorithms, etc. My experience with hand-coding the 2016 assignment above was essential to understanding the code & outputs of the AI generated 2026 notebook.
