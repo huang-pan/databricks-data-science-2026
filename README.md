@@ -20,4 +20,5 @@ If AI can do all of this, where does this leave the human?
 - The human needs to have an understanding of the architecture & features of the underlying data & AI platform (in this case Databricks) in order to put the data science model into production. And maintain the model using Machine Learning Operations (MLOps). The job function of the data scientist has expanded to include the arena of data & AI systems design: data scientist -> AI engineer
 - Example of agentic ML https://tech.instacart.com/agentic-machine-learning-modeling-at-instacart-fb3ecd295ee7
   - Instacart writes about integrating AI agents into its Griffin ML platform to autonomously generate, code, and evaluate machine learning hypotheses under human supervision. Instead of basic hyperparameter tuning, agents dynamically adapt strategies, test diverse model families, and compound small architectural improvements based on real-time evaluation feedback.
+- https://tech.quince.com/ml-infra-that-doesnt-waste-your-time-how-we-serve-models-f586a166f7c7
 - For additional reference, see: https://github.com/huang-pan/modern-data-stack-2023/blob/main/Databricks%2C%20Spark.md
